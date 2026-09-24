@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\assignment one\bin\Debug\assignment one.exe.config
+C:\Users\HP\source\repos\assignment one\bin\Debug\assignment one.exe
+C:\Users\HP\source\repos\assignment one\bin\Debug\assignment one.pdb
+C:\Users\HP\source\repos\assignment one\obj\Debug\assignment one.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\assignment one\obj\Debug\assignment_one.Form1.resources
+C:\Users\HP\source\repos\assignment one\obj\Debug\assignment_one.Properties.Resources.resources
+C:\Users\HP\source\repos\assignment one\obj\Debug\assignment one.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\assignment one\obj\Debug\assignment one.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\assignment one\obj\Debug\assignment one.exe
+C:\Users\HP\source\repos\assignment one\obj\Debug\assignment one.pdb
