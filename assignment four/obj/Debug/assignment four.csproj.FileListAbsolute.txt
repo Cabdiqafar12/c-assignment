@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\assignment four\bin\Debug\assignment four.exe.config
+C:\Users\HP\Desktop\assignment four\bin\Debug\assignment four.exe
+C:\Users\HP\Desktop\assignment four\bin\Debug\assignment four.pdb
+C:\Users\HP\Desktop\assignment four\obj\Debug\assignment four.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\assignment four\obj\Debug\assignment_four.Form1.resources
+C:\Users\HP\Desktop\assignment four\obj\Debug\assignment_four.Properties.Resources.resources
+C:\Users\HP\Desktop\assignment four\obj\Debug\assignment four.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\assignment four\obj\Debug\assignment four.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\assignment four\obj\Debug\assignment four.exe
+C:\Users\HP\Desktop\assignment four\obj\Debug\assignment four.pdb
