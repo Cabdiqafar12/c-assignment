@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\assignment file stu info\obj\Debug\assignment file stu info.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\assignment file stu info\obj\Debug\assignment_file_stu_info.Form1.resources
+C:\Users\HP\Desktop\assignment file stu info\obj\Debug\assignment_file_stu_info.Properties.Resources.resources
+C:\Users\HP\Desktop\assignment file stu info\obj\Debug\assignment file stu info.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\assignment file stu info\obj\Debug\assignment file stu info.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\assignment file stu info\bin\Debug\assignment file stu info.exe.config
+C:\Users\HP\Desktop\assignment file stu info\bin\Debug\assignment file stu info.exe
+C:\Users\HP\Desktop\assignment file stu info\bin\Debug\assignment file stu info.pdb
+C:\Users\HP\Desktop\assignment file stu info\obj\Debug\assignment file stu info.exe
+C:\Users\HP\Desktop\assignment file stu info\obj\Debug\assignment file stu info.pdb

@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\assignment 5\bin\Debug\assignment 5.exe.config
+C:\Users\HP\Desktop\assignment 5\bin\Debug\assignment 5.exe
+C:\Users\HP\Desktop\assignment 5\bin\Debug\assignment 5.pdb
+C:\Users\HP\Desktop\assignment 5\obj\Debug\assignment 5.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\assignment 5\obj\Debug\assignment_5.Form1.resources
+C:\Users\HP\Desktop\assignment 5\obj\Debug\assignment_5.Properties.Resources.resources
+C:\Users\HP\Desktop\assignment 5\obj\Debug\assignment 5.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\assignment 5\obj\Debug\assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\assignment 5\obj\Debug\assignment 5.exe
+C:\Users\HP\Desktop\assignment 5\obj\Debug\assignment 5.pdb
